@@ -1,0 +1,53 @@
+@charset "UTF-8";
+
+body {
+	font-family: sans-serif;
+	color: gray;
+	text-align: justify;
+	margin-left: 5em;
+}
+
+.tipo {
+	font-size: medium;
+	font-family: inherit;
+}
+
+.orange {
+	background: orange;
+	color: white;
+	height: 3.5em;
+	width: 20em;
+}
+
+.final {
+	text-decoration: underline;
+}
+
+.naranja {
+	color: orange;
+}
+
+.negrita {
+	color: black;
+	font-weight: bold;
+}
+
+.color {
+	color: orange;
+}
+
+.gris {
+	color: gray;
+}
+
+.black {
+	color: black;
+	text-decoration: underline;
+}
+
+.green {
+	background-color: green; color : white;
+	height: 3.5em;
+	width: 20em;
+	color: white;
+}
